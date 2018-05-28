@@ -1,6 +1,8 @@
 import os
 import sqlite3
 
+
+# Y más cosas
 # The score and number of tiles for each letter in the Spanish version
 # of the game
 # 2 cuadros en blanco (0 puntos)
